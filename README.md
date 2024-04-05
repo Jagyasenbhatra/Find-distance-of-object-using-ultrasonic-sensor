@@ -1,4 +1,4 @@
-# To Interface Ultersonic Sensor with Arduino and Write a program to display the distance of an object
+# To Interface Ultrasonic Sensor with Arduino and Write a program to display the distance of an object
 
 ## Device Required
 
